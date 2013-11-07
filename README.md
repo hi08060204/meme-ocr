@@ -1,0 +1,4 @@
+# Meme OCR
+
+Help averangeall.
+
